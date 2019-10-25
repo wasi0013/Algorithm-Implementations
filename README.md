@@ -1,6 +1,22 @@
-#Algorithm Implementations
+# Algorithm Implementations
+
+[![Join the chat at https://gitter.im/kennyledet/Algorithm-Implementations](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kennyledet/Algorithm-Implementations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 (Note: there is a backstory on my motivation for starting this at the bottom of this README)
+
+
+
+Updates
+=======
+**Update 7/19/15**
+Please include tests with your implementation submissions! Please see [Issue #459](https://github.com/kennyledet/Algorithm-Implementations/issues/459#issuecomment-118841244) on instructions. Thanks for understanding!! <3
+
+
+**Update 1/4/15**
+Our site is now getting hundreds of unique visitors and thousands of pageviews per day :)
+
+[Algorithm.zone](http://algorithm.zone/)
+
 
 **Update 06/09/14**
 I have released a native Android app for viewing the algorithms! It's a wrapper around the web app with some native functionality. Check it out on Google Play here
@@ -40,7 +56,7 @@ Conventions
 + When implementing a new algorithm, create a "tags" file in the algorithm's root directory and add some appropriate tags
 + Please package your code in a directory bearing your GitHub username. `git blame` is cool, and has many more appropriate applications, but in this context I'd rather pull a flat list of files and be able to check out everyone's contributions that way than have to look through the revisions.
 
-+ Each algorithm should have its corresponding unit test cases (as directory structure suggested above) which covers the corner cases, happy/unhappy paths.
++ Each algorithm should have its corresponding unit test cases (as directory structure suggested above) which covers the corner cases, happy/unhappy paths. Please see [Issue #459](https://github.com/kennyledet/Algorithm-Implementations/issues/459) for further discussion on this topic.
 
 	The advantage of doing so is to assert that everything is covered, and that the algorithm is not broken between code changes.
 
@@ -54,21 +70,21 @@ Resources
 ---------
 We should also keep a curated list of resources dealing with algorithms.
 
-####Introductory Books
+#### Introductory Books
 + [Introduction to Algorithms](http://www.amazon.com/Introduction-Algorithms-Second-Edition-Thomas/dp/0262032937) (CLRS)
 + [Algorithms](http://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) (Dasgupta, Papadimitriou, and Vazirani)
 + [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600) (Steven Skiena)
 + [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) (Robert Sedgewick, Kevin Wayne)
 
 
-####Sites
+#### Sites
 + [LiteratePrograms](http://en.literateprograms.org/LiteratePrograms:Welcome) (TONS of code samples in various problem domains)
 + [UVa Online Judge](http://uva.onlinejudge.org) (TONS of problems to solve, automatic judging)
 + [Stony Brook Algorithm Repository](http://www.cs.sunysb.edu/~algorith/)
 + [The Archive of Interesting Code](http://www.keithschwarz.com/interesting/)
 + [ACM Collected Algorithms(CALGO)](http://calgo.acm.org)
 
-####Online Classes
+#### Online Classes
 + [Algorithms Part I - Coursera](https://www.coursera.org/course/algs4partI)
 + [Algorithms Part II - Coursera](https://www.coursera.org/course/algs4partII)
 + [Algorithms: Design and Analysis, Part 1 - Coursera](https://www.coursera.org/course/algo)
